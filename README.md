@@ -1,4 +1,3 @@
-Week 2 Weekly Assessment - Machine Learning
 Project Overview
 This project is part of the Week 2 Machine Learning assessment.
 
